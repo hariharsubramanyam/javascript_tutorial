@@ -3,7 +3,7 @@
   var fibonacci = function() {};
   var ntimesMaker = function() {};
   var checkFn = function() {};
-  // IGNORE THE ABOVE LINES
+  // DO NOT MODIFY ABOVE.
 
 
   // Exercise 0:
@@ -395,6 +395,7 @@
   
 
   
+  // DO NOT MODIFY BELOW.
   window.Solution = {
     "simpleFunction": simpleFunction,
     "computeSum": computeSum,
