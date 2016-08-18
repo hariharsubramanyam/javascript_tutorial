@@ -1,0 +1,19 @@
+.failed {
+  background-color: indianred;
+}
+
+.succeeded {
+  background-color: lightgreen; 
+}
+
+.succeeded, .failed {
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.4em;
+  width: 50%;
+  margin: 5px;
+}
+
+#test_results {
+  text-align: center;
+}
