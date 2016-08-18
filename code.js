@@ -227,6 +227,7 @@
   // Fix the function below so that it does not use type coersion.
   var equalsWithoutTypeCoersion = function(x, y) {
     // FIX LINE BELOW
+    return x == y;
   }
 
   // Exercise 9:
