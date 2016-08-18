@@ -22,7 +22,7 @@
   // Create a variable called mySum that holds the sum of x and y.
   var computeSum = function(x, y) {
     // YOUR CODE HERE
-    
+
     // DO NOT MODIFY BELOW
     return mySum;
   }
